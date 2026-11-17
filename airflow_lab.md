@@ -4,7 +4,7 @@
 ---
 
 ### Step 1: Download the Source Dataset
-1. Navigate to the official dataset page on your personal laptop browser: **[Kaggle New York Stock Exchange Dataset](https://kaggle.com)**.
+1. Navigate to the official dataset page on your personal laptop browser: **[Kaggle New York Stock Exchange Dataset](https://www.kaggle.com/datasets/dgawlik/nyse?select=prices.csv)**.
 2. Download the compressed files repository folder and extract the primary raw spreadsheet data file named exactly **`prices.csv`**.
 3. Move or rename this file on your local operating system directory folder to: **`nyse_prices.csv`**.
 
