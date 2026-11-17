@@ -1,5 +1,4 @@
 # Lab Guide: Big Data Ingestion, Transport, and Workflow Orchestration
-**Course:** ISOM 671 — Managing Big Data  
 **Objective:** Manually provision an end-to-end data pipeline crossing AWS RDS (MySQL), AWS EMR (Hadoop, Hive, Sqoop), and Apache Airflow 3.0.
 
 ---
